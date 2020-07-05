@@ -1,0 +1,7 @@
+Financial Analysis
+------------------------
+Total operating month is 86 months
+Total profit and loss during Jan 2010 to Feb 2017 is $ 38,382,578.
+Average monthly change in profit/loss is $ -2,315.12.
+Best operating month is Feb-2012, PyBank made $ 1,926,159.
+Worst operating month is Sep-2013, PyBank lost $ -2,196,167.
